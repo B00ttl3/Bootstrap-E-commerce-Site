@@ -244,18 +244,15 @@ p {
   background-color:var(--black-color);
 }
 
-.new-arrivals .card-banner .card-thumb,
-.products .item-product{
+.new-arrivals .card-banner .card-thumb{
   position:relative;
   display:block;
   overflow: hidden;
 }
-.new-arrivals .card-banner .card-thumb img,
-.products .item-product img{
+.new-arrivals .card-banner .card-thumb img{
   transition: all .5s ease-out 0s;
 }
-.new-arrivals .card-banner .card-thumb img:hover,
-.products .item-product img:hover{
+.new-arrivals .card-banner .card-thumb img:hover{
   transform:scale(1.2);
   opacity:0.6;
 }
