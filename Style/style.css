@@ -48,7 +48,6 @@ body {
   font-family: 'Dosis', sans-serif;
 }
 
-
 ::-webkit-scrollbar {
   width: 0.3125rem;
 }
@@ -215,7 +214,6 @@ p {
   color:var(--primary-color);
 }
  
-
  
 #home .carousel-caption{
   top:12rem;
@@ -224,7 +222,6 @@ p {
   max-width: 36.25rem;
   margin:1.0625rem auto;
 }
-
 
 .new-arrivals .banner-info{
   bottom:30px;
