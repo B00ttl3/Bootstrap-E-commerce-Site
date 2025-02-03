@@ -164,6 +164,7 @@ p {
 .top-header{
   background-color: var(--secondary-color);
 }
+
 .top-header span{
   font-size: 0.875rem;
   color:var(--white-color);
@@ -223,6 +224,7 @@ p {
 #home .carousel-caption{
   top:12rem;
 }
+
 #home .carousel-caption p{
   max-width: 36.25rem;
   margin:1.0625rem auto;
