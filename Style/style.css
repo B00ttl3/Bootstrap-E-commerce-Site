@@ -305,3 +305,10 @@ p {
   white-space: nowrap;
   text-transform: uppercase;
 }
+
+.products .rating i{
+  color:#f48932
+}
+.basket a i{
+  color:var(--white-color);
+}
