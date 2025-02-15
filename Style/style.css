@@ -272,10 +272,12 @@ p {
 .products .wrapper{
   background-color:var(--black-color);
 }
+
 .products .nav-tabs{
   border:0;
   justify-content: center;
 }
+
 .products .nav-tabs .nav-link{
   display:block;
   padding:0 30px;
@@ -296,6 +298,7 @@ p {
   opacity: 0.6;
   text-transform: uppercase;
 }
+
 .products .product-title a{
   margin: 0 0 7px;
   display:block;
