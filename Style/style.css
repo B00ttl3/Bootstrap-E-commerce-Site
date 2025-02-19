@@ -324,3 +324,7 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.blog-section{
+  background-color:var(--black-color);
+} 
