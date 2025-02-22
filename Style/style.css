@@ -338,6 +338,7 @@ p {
   color:var(--white-color);
   padding:0 1rem;
 }
+
 .footer .footer-social a:hover i{
   color:var(--primary-color);
 }
