@@ -317,7 +317,6 @@ p {
   color:var(--white-color);
 }
 
-
 .deal-of-the-day{
   background-image:url("../images/img/img-4.jpg");
   background-position: center;
@@ -328,7 +327,6 @@ p {
 .blog-section{
   background-color:var(--black-color);
 } 
-
 
 .footer{
   background-color:var(--secondary-color);
