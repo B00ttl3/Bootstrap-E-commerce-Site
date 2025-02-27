@@ -317,12 +317,14 @@ p {
   color:var(--white-color);
 }
 
+
 .deal-of-the-day{
   background-image:url("../images/img/img-4.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 .blog-section{
   background-color:var(--black-color);
